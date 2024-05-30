@@ -1,0 +1,41 @@
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+nav {
+  position:fixed;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(187, 177, 177);
+}
+.img{
+  padding: 200px;
+}
+/* target the class of inline-block below */
+.inline-block{
+  padding: 15px;
+  display: inline-block;
+}
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* target the class of .left below */
+.left{
+  background-color: rgb(126, 137, 199);
+  height: 5000px;
+  width: 30%;
+  float: left;
+}
+/* target the class of .right below */
+.right{
+ background-color: rgb(147, 214, 192);
+ height: 5000px;
+ width: 70%;
+ float: right;
+}
+.card{
+  fill: antiquewhite;
+  width: 200px;
+}

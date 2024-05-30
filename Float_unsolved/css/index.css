@@ -1,0 +1,18 @@
+h1 {
+ font-family: helvetica, arial, sans-serif;
+ text-align: center;
+}
+/* Write your selector for .left below */
+.left{
+    float: left;
+}
+/* Write your selector for .right below */
+.right{
+    float: right;
+
+}
+/* Write your selector for .separator below */
+.separator{
+    max-width: 750px;
+    margin: 100px auto 0 auto;
+}

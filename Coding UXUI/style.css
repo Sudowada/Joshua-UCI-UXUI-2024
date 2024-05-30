@@ -1,0 +1,82 @@
+body {
+  
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(209, 202, 173);
+    
+  }
+  
+  h1 {
+    font-family: "Bebas Neue", sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(214, 157, 92);
+  }
+ 
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  /*div {
+    
+    position: relative;
+    padding: 10px;
+    fill: aliceblue;
+    width: 200px;
+    height: 200px;
+    outline-style: solid;
+    outline-color:rgb(51, 50, 50) ;
+  }*/
+ .h_color{
+font-size: 80px;
+text-align: left;
+
+ }
+ .color_box{
+width: 200px;
+ }
+ .display{
+  width: 200px;
+  height: 200px;
+  background-color: rgb(251, 255, 7);
+
+ }
+
+ .label{
+  width: 200px;
+  height: auto;
+  background-color: white;
+  bottom: 0;
+  position: absolute;
+
+ }
+ .box {
+  margin: 20px 10px 40px 10px;
+
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  position:relative;
+}
+
+
+#box-pikachu {
+  background-color: rgb(238, 255, 7);
+}
+
+#box-red {
+  background-color: rgb(238, 45, 45);
+}
+
+#box-black {
+  background-color: rgb(49, 48, 38);
+}
+
+#box-purple {
+  background-color: purple;
+}
+section{
+  margin: 100px;
+  padding: 20px;
+  outline-style:solid ;
+  outline-color: rgb(0, 0, 0);
+}
